@@ -1,11 +1,11 @@
 
 {
-  "name": "react-native-spotify",
+  "name": "@puradox/react-native-spotify",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lufinkey/react-native-spotify.git"
+    "url": "https://github.com/puradox/react-native-spotify.git"
   },
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "",
   "author": "lufinkey",
   "nativePackage":true,
@@ -20,6 +20,6 @@
     "prepublish": "git submodule update --init --recursive"
   },
   "peerDependencies": {
-    "react-native": "^0.41.2"
+    "react-native": "^0.49.0"
   }
 }
